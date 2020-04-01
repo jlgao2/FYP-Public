@@ -1,2 +1,2 @@
 # FYP-Public
-Repo for public work related to George's FYP
+Repo for preliminary work related to George's FYP
