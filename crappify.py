@@ -26,7 +26,7 @@ class crappifier(object):
         dest = self.path_lr/fn.relative_to(self.path_hr)
         dest.parent.mkdir(parents=True, exist_ok=True)
         img = PIL.Image.open(fn)
-        targ_sz = resize_to(img, 96, use_min=True)
+        targ_sz = resize_to(img, 100, use_min=True)
         img = img.resize(targ_sz, resample=PIL.Image.BILINEAR).convert('RGB')
         w,h = img.size
         q = 100
