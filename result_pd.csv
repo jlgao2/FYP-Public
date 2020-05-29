@@ -1,0 +1,1201 @@
+id,Category
+1,crab
+2,kangaroo
+3,crab
+4,cactus
+5,kangaroo
+6,banana
+7,kangaroo
+8,kangaroo
+9,cactus
+10,crab
+11,cactus
+12,cactus
+13,kangaroo
+14,boomerang
+15,boomerang
+16,boomerang
+17,cactus
+18,banana
+19,crab
+20,crab
+21,flip flops
+22,flip flops
+23,kangaroo
+24,crab
+25,boomerang
+26,boomerang
+27,boomerang
+28,flip flops
+29,flip flops
+30,boomerang
+31,banana
+32,flip flops
+33,boomerang
+34,flip flops
+35,crab
+36,banana
+37,flip flops
+38,crab
+39,flip flops
+40,cactus
+41,boomerang
+42,crab
+43,cactus
+44,crab
+45,banana
+46,banana
+47,kangaroo
+48,cactus
+49,kangaroo
+50,crab
+51,banana
+52,cactus
+53,crab
+54,kangaroo
+55,flip flops
+56,crab
+57,boomerang
+58,kangaroo
+59,cactus
+60,cactus
+61,boomerang
+62,banana
+63,cactus
+64,cactus
+65,cactus
+66,banana
+67,flip flops
+68,kangaroo
+69,flip flops
+70,cactus
+71,boomerang
+72,crab
+73,flip flops
+74,cactus
+75,cactus
+76,kangaroo
+77,kangaroo
+78,crab
+79,cactus
+80,banana
+81,crab
+82,kangaroo
+83,cactus
+84,banana
+85,flip flops
+86,cactus
+87,flip flops
+88,flip flops
+89,boomerang
+90,cactus
+91,crab
+92,flip flops
+93,boomerang
+94,banana
+95,boomerang
+96,boomerang
+97,flip flops
+98,banana
+99,flip flops
+100,boomerang
+101,banana
+102,crab
+103,cactus
+104,banana
+105,crab
+106,flip flops
+107,boomerang
+108,crab
+109,banana
+110,boomerang
+111,boomerang
+112,boomerang
+113,flip flops
+114,banana
+115,flip flops
+116,crab
+117,crab
+118,crab
+119,cactus
+120,boomerang
+121,crab
+122,cactus
+123,banana
+124,flip flops
+125,crab
+126,banana
+127,cactus
+128,banana
+129,banana
+130,crab
+131,kangaroo
+132,cactus
+133,flip flops
+134,kangaroo
+135,cactus
+136,flip flops
+137,flip flops
+138,flip flops
+139,crab
+140,banana
+141,cactus
+142,cactus
+143,kangaroo
+144,banana
+145,crab
+146,flip flops
+147,cactus
+148,kangaroo
+149,crab
+150,cactus
+151,kangaroo
+152,flip flops
+153,kangaroo
+154,flip flops
+155,flip flops
+156,flip flops
+157,boomerang
+158,crab
+159,kangaroo
+160,crab
+161,banana
+162,kangaroo
+163,cactus
+164,boomerang
+165,banana
+166,crab
+167,flip flops
+168,cactus
+169,crab
+170,banana
+171,flip flops
+172,kangaroo
+173,crab
+174,crab
+175,crab
+176,cactus
+177,boomerang
+178,boomerang
+179,crab
+180,kangaroo
+181,kangaroo
+182,kangaroo
+183,crab
+184,kangaroo
+185,crab
+186,boomerang
+187,flip flops
+188,flip flops
+189,boomerang
+190,crab
+191,boomerang
+192,flip flops
+193,flip flops
+194,cactus
+195,flip flops
+196,boomerang
+197,banana
+198,flip flops
+199,boomerang
+200,banana
+201,crab
+202,crab
+203,kangaroo
+204,crab
+205,cactus
+206,flip flops
+207,crab
+208,banana
+209,flip flops
+210,crab
+211,kangaroo
+212,flip flops
+213,flip flops
+214,crab
+215,crab
+216,cactus
+217,banana
+218,cactus
+219,flip flops
+220,flip flops
+221,flip flops
+222,crab
+223,kangaroo
+224,boomerang
+225,kangaroo
+226,banana
+227,cactus
+228,cactus
+229,flip flops
+230,crab
+231,crab
+232,banana
+233,crab
+234,boomerang
+235,banana
+236,banana
+237,kangaroo
+238,flip flops
+239,boomerang
+240,banana
+241,crab
+242,crab
+243,boomerang
+244,flip flops
+245,crab
+246,crab
+247,boomerang
+248,boomerang
+249,crab
+250,kangaroo
+251,cactus
+252,crab
+253,cactus
+254,cactus
+255,boomerang
+256,banana
+257,cactus
+258,cactus
+259,boomerang
+260,flip flops
+261,boomerang
+262,cactus
+263,flip flops
+264,boomerang
+265,cactus
+266,banana
+267,kangaroo
+268,banana
+269,boomerang
+270,flip flops
+271,banana
+272,boomerang
+273,crab
+274,flip flops
+275,crab
+276,crab
+277,cactus
+278,cactus
+279,boomerang
+280,flip flops
+281,flip flops
+282,flip flops
+283,banana
+284,banana
+285,flip flops
+286,banana
+287,crab
+288,crab
+289,cactus
+290,cactus
+291,boomerang
+292,kangaroo
+293,crab
+294,kangaroo
+295,flip flops
+296,boomerang
+297,kangaroo
+298,crab
+299,crab
+300,banana
+301,boomerang
+302,flip flops
+303,cactus
+304,banana
+305,boomerang
+306,boomerang
+307,boomerang
+308,boomerang
+309,kangaroo
+310,kangaroo
+311,crab
+312,banana
+313,flip flops
+314,boomerang
+315,boomerang
+316,cactus
+317,boomerang
+318,crab
+319,boomerang
+320,kangaroo
+321,boomerang
+322,crab
+323,cactus
+324,flip flops
+325,flip flops
+326,kangaroo
+327,cactus
+328,crab
+329,kangaroo
+330,flip flops
+331,kangaroo
+332,banana
+333,banana
+334,kangaroo
+335,crab
+336,flip flops
+337,kangaroo
+338,boomerang
+339,banana
+340,cactus
+341,flip flops
+342,cactus
+343,banana
+344,kangaroo
+345,crab
+346,kangaroo
+347,kangaroo
+348,kangaroo
+349,kangaroo
+350,kangaroo
+351,boomerang
+352,kangaroo
+353,boomerang
+354,crab
+355,cactus
+356,kangaroo
+357,banana
+358,flip flops
+359,crab
+360,kangaroo
+361,boomerang
+362,banana
+363,crab
+364,flip flops
+365,banana
+366,flip flops
+367,crab
+368,cactus
+369,crab
+370,flip flops
+371,cactus
+372,kangaroo
+373,boomerang
+374,flip flops
+375,kangaroo
+376,flip flops
+377,flip flops
+378,crab
+379,crab
+380,boomerang
+381,cactus
+382,flip flops
+383,kangaroo
+384,boomerang
+385,boomerang
+386,banana
+387,crab
+388,kangaroo
+389,banana
+390,flip flops
+391,cactus
+392,crab
+393,flip flops
+394,boomerang
+395,kangaroo
+396,crab
+397,cactus
+398,flip flops
+399,crab
+400,crab
+401,cactus
+402,boomerang
+403,cactus
+404,kangaroo
+405,kangaroo
+406,kangaroo
+407,cactus
+408,flip flops
+409,flip flops
+410,kangaroo
+411,boomerang
+412,cactus
+413,crab
+414,crab
+415,boomerang
+416,kangaroo
+417,flip flops
+418,banana
+419,cactus
+420,flip flops
+421,crab
+422,banana
+423,boomerang
+424,kangaroo
+425,kangaroo
+426,cactus
+427,banana
+428,kangaroo
+429,flip flops
+430,kangaroo
+431,boomerang
+432,boomerang
+433,banana
+434,kangaroo
+435,flip flops
+436,banana
+437,kangaroo
+438,kangaroo
+439,banana
+440,cactus
+441,flip flops
+442,boomerang
+443,boomerang
+444,kangaroo
+445,kangaroo
+446,kangaroo
+447,kangaroo
+448,cactus
+449,boomerang
+450,kangaroo
+451,crab
+452,crab
+453,banana
+454,boomerang
+455,kangaroo
+456,crab
+457,kangaroo
+458,flip flops
+459,crab
+460,cactus
+461,boomerang
+462,crab
+463,flip flops
+464,cactus
+465,boomerang
+466,cactus
+467,kangaroo
+468,flip flops
+469,banana
+470,banana
+471,crab
+472,kangaroo
+473,crab
+474,boomerang
+475,boomerang
+476,banana
+477,cactus
+478,banana
+479,kangaroo
+480,boomerang
+481,crab
+482,banana
+483,crab
+484,banana
+485,boomerang
+486,flip flops
+487,kangaroo
+488,boomerang
+489,banana
+490,cactus
+491,flip flops
+492,flip flops
+493,kangaroo
+494,crab
+495,banana
+496,banana
+497,banana
+498,kangaroo
+499,kangaroo
+500,cactus
+501,flip flops
+502,flip flops
+503,boomerang
+504,cactus
+505,kangaroo
+506,crab
+507,flip flops
+508,cactus
+509,boomerang
+510,flip flops
+511,banana
+512,boomerang
+513,cactus
+514,flip flops
+515,banana
+516,cactus
+517,boomerang
+518,cactus
+519,flip flops
+520,cactus
+521,boomerang
+522,banana
+523,crab
+524,banana
+525,banana
+526,banana
+527,banana
+528,kangaroo
+529,banana
+530,banana
+531,cactus
+532,crab
+533,banana
+534,crab
+535,boomerang
+536,cactus
+537,flip flops
+538,flip flops
+539,boomerang
+540,banana
+541,cactus
+542,cactus
+543,crab
+544,cactus
+545,flip flops
+546,flip flops
+547,boomerang
+548,boomerang
+549,kangaroo
+550,crab
+551,crab
+552,cactus
+553,kangaroo
+554,flip flops
+555,cactus
+556,banana
+557,cactus
+558,boomerang
+559,boomerang
+560,kangaroo
+561,crab
+562,kangaroo
+563,boomerang
+564,crab
+565,cactus
+566,flip flops
+567,flip flops
+568,banana
+569,kangaroo
+570,boomerang
+571,kangaroo
+572,crab
+573,crab
+574,cactus
+575,kangaroo
+576,flip flops
+577,crab
+578,kangaroo
+579,flip flops
+580,cactus
+581,cactus
+582,boomerang
+583,banana
+584,cactus
+585,banana
+586,boomerang
+587,kangaroo
+588,banana
+589,crab
+590,banana
+591,banana
+592,kangaroo
+593,banana
+594,boomerang
+595,crab
+596,crab
+597,flip flops
+598,boomerang
+599,kangaroo
+600,crab
+601,boomerang
+602,banana
+603,flip flops
+604,banana
+605,boomerang
+606,kangaroo
+607,banana
+608,kangaroo
+609,kangaroo
+610,cactus
+611,cactus
+612,banana
+613,boomerang
+614,flip flops
+615,banana
+616,crab
+617,crab
+618,crab
+619,kangaroo
+620,flip flops
+621,flip flops
+622,cactus
+623,banana
+624,banana
+625,kangaroo
+626,banana
+627,boomerang
+628,crab
+629,boomerang
+630,flip flops
+631,banana
+632,cactus
+633,banana
+634,crab
+635,cactus
+636,banana
+637,banana
+638,cactus
+639,cactus
+640,cactus
+641,flip flops
+642,cactus
+643,crab
+644,crab
+645,banana
+646,banana
+647,crab
+648,banana
+649,cactus
+650,flip flops
+651,crab
+652,boomerang
+653,crab
+654,cactus
+655,flip flops
+656,crab
+657,banana
+658,flip flops
+659,cactus
+660,boomerang
+661,crab
+662,cactus
+663,banana
+664,banana
+665,kangaroo
+666,cactus
+667,cactus
+668,flip flops
+669,kangaroo
+670,boomerang
+671,crab
+672,boomerang
+673,crab
+674,boomerang
+675,banana
+676,banana
+677,cactus
+678,kangaroo
+679,cactus
+680,flip flops
+681,banana
+682,flip flops
+683,cactus
+684,cactus
+685,flip flops
+686,cactus
+687,kangaroo
+688,boomerang
+689,banana
+690,cactus
+691,kangaroo
+692,cactus
+693,boomerang
+694,kangaroo
+695,boomerang
+696,kangaroo
+697,boomerang
+698,banana
+699,flip flops
+700,cactus
+701,cactus
+702,cactus
+703,banana
+704,crab
+705,banana
+706,kangaroo
+707,flip flops
+708,crab
+709,kangaroo
+710,boomerang
+711,banana
+712,cactus
+713,flip flops
+714,cactus
+715,boomerang
+716,kangaroo
+717,banana
+718,kangaroo
+719,cactus
+720,crab
+721,crab
+722,kangaroo
+723,crab
+724,crab
+725,banana
+726,banana
+727,kangaroo
+728,banana
+729,kangaroo
+730,boomerang
+731,crab
+732,crab
+733,boomerang
+734,boomerang
+735,kangaroo
+736,cactus
+737,cactus
+738,boomerang
+739,crab
+740,kangaroo
+741,cactus
+742,flip flops
+743,kangaroo
+744,boomerang
+745,boomerang
+746,flip flops
+747,banana
+748,flip flops
+749,cactus
+750,kangaroo
+751,crab
+752,banana
+753,boomerang
+754,crab
+755,banana
+756,kangaroo
+757,kangaroo
+758,kangaroo
+759,crab
+760,cactus
+761,boomerang
+762,kangaroo
+763,flip flops
+764,banana
+765,kangaroo
+766,cactus
+767,boomerang
+768,kangaroo
+769,kangaroo
+770,crab
+771,banana
+772,boomerang
+773,boomerang
+774,cactus
+775,crab
+776,kangaroo
+777,cactus
+778,banana
+779,flip flops
+780,boomerang
+781,kangaroo
+782,banana
+783,boomerang
+784,cactus
+785,cactus
+786,cactus
+787,boomerang
+788,cactus
+789,boomerang
+790,boomerang
+791,kangaroo
+792,crab
+793,kangaroo
+794,banana
+795,banana
+796,banana
+797,cactus
+798,flip flops
+799,kangaroo
+800,kangaroo
+801,kangaroo
+802,kangaroo
+803,crab
+804,kangaroo
+805,cactus
+806,flip flops
+807,crab
+808,boomerang
+809,flip flops
+810,kangaroo
+811,crab
+812,banana
+813,crab
+814,flip flops
+815,kangaroo
+816,boomerang
+817,banana
+818,cactus
+819,banana
+820,kangaroo
+821,crab
+822,banana
+823,flip flops
+824,flip flops
+825,flip flops
+826,cactus
+827,kangaroo
+828,kangaroo
+829,boomerang
+830,cactus
+831,cactus
+832,boomerang
+833,kangaroo
+834,cactus
+835,kangaroo
+836,flip flops
+837,cactus
+838,kangaroo
+839,banana
+840,flip flops
+841,flip flops
+842,flip flops
+843,banana
+844,kangaroo
+845,flip flops
+846,crab
+847,kangaroo
+848,crab
+849,boomerang
+850,banana
+851,flip flops
+852,crab
+853,flip flops
+854,cactus
+855,crab
+856,flip flops
+857,banana
+858,cactus
+859,cactus
+860,flip flops
+861,flip flops
+862,crab
+863,crab
+864,boomerang
+865,boomerang
+866,boomerang
+867,kangaroo
+868,kangaroo
+869,kangaroo
+870,banana
+871,cactus
+872,kangaroo
+873,banana
+874,banana
+875,banana
+876,flip flops
+877,boomerang
+878,boomerang
+879,kangaroo
+880,cactus
+881,cactus
+882,crab
+883,boomerang
+884,flip flops
+885,kangaroo
+886,banana
+887,banana
+888,flip flops
+889,banana
+890,cactus
+891,kangaroo
+892,flip flops
+893,cactus
+894,cactus
+895,boomerang
+896,flip flops
+897,crab
+898,crab
+899,banana
+900,banana
+901,crab
+902,crab
+903,cactus
+904,banana
+905,flip flops
+906,crab
+907,flip flops
+908,cactus
+909,banana
+910,boomerang
+911,flip flops
+912,cactus
+913,crab
+914,kangaroo
+915,crab
+916,flip flops
+917,crab
+918,cactus
+919,kangaroo
+920,cactus
+921,cactus
+922,boomerang
+923,flip flops
+924,cactus
+925,cactus
+926,cactus
+927,kangaroo
+928,flip flops
+929,flip flops
+930,crab
+931,kangaroo
+932,crab
+933,banana
+934,boomerang
+935,crab
+936,crab
+937,flip flops
+938,flip flops
+939,banana
+940,banana
+941,boomerang
+942,crab
+943,banana
+944,kangaroo
+945,flip flops
+946,flip flops
+947,banana
+948,kangaroo
+949,kangaroo
+950,crab
+951,kangaroo
+952,flip flops
+953,kangaroo
+954,boomerang
+955,banana
+956,banana
+957,kangaroo
+958,boomerang
+959,kangaroo
+960,banana
+961,cactus
+962,boomerang
+963,kangaroo
+964,flip flops
+965,cactus
+966,boomerang
+967,flip flops
+968,cactus
+969,crab
+970,crab
+971,kangaroo
+972,boomerang
+973,flip flops
+974,banana
+975,banana
+976,flip flops
+977,cactus
+978,crab
+979,cactus
+980,banana
+981,banana
+982,flip flops
+983,flip flops
+984,kangaroo
+985,boomerang
+986,banana
+987,flip flops
+988,kangaroo
+989,boomerang
+990,flip flops
+991,crab
+992,crab
+993,kangaroo
+994,boomerang
+995,banana
+996,flip flops
+997,kangaroo
+998,kangaroo
+999,crab
+1000,cactus
+1001,boomerang
+1002,boomerang
+1003,flip flops
+1004,cactus
+1005,banana
+1006,crab
+1007,cactus
+1008,boomerang
+1009,cactus
+1010,banana
+1011,crab
+1012,kangaroo
+1013,crab
+1014,banana
+1015,flip flops
+1016,banana
+1017,cactus
+1018,kangaroo
+1019,crab
+1020,flip flops
+1021,cactus
+1022,kangaroo
+1023,banana
+1024,cactus
+1025,cactus
+1026,flip flops
+1027,cactus
+1028,banana
+1029,kangaroo
+1030,banana
+1031,cactus
+1032,banana
+1033,flip flops
+1034,crab
+1035,crab
+1036,flip flops
+1037,crab
+1038,cactus
+1039,cactus
+1040,boomerang
+1041,banana
+1042,kangaroo
+1043,crab
+1044,boomerang
+1045,flip flops
+1046,crab
+1047,flip flops
+1048,banana
+1049,kangaroo
+1050,crab
+1051,boomerang
+1052,kangaroo
+1053,boomerang
+1054,flip flops
+1055,flip flops
+1056,boomerang
+1057,cactus
+1058,flip flops
+1059,boomerang
+1060,crab
+1061,flip flops
+1062,flip flops
+1063,cactus
+1064,banana
+1065,flip flops
+1066,crab
+1067,crab
+1068,kangaroo
+1069,kangaroo
+1070,kangaroo
+1071,boomerang
+1072,kangaroo
+1073,banana
+1074,flip flops
+1075,kangaroo
+1076,cactus
+1077,crab
+1078,flip flops
+1079,kangaroo
+1080,kangaroo
+1081,banana
+1082,cactus
+1083,boomerang
+1084,boomerang
+1085,boomerang
+1086,flip flops
+1087,banana
+1088,cactus
+1089,cactus
+1090,cactus
+1091,cactus
+1092,kangaroo
+1093,kangaroo
+1094,banana
+1095,banana
+1096,boomerang
+1097,crab
+1098,kangaroo
+1099,boomerang
+1100,crab
+1101,kangaroo
+1102,crab
+1103,flip flops
+1104,flip flops
+1105,boomerang
+1106,flip flops
+1107,banana
+1108,crab
+1109,flip flops
+1110,cactus
+1111,banana
+1112,banana
+1113,banana
+1114,flip flops
+1115,cactus
+1116,boomerang
+1117,banana
+1118,banana
+1119,kangaroo
+1120,cactus
+1121,banana
+1122,kangaroo
+1123,kangaroo
+1124,kangaroo
+1125,boomerang
+1126,flip flops
+1127,crab
+1128,banana
+1129,boomerang
+1130,flip flops
+1131,boomerang
+1132,flip flops
+1133,banana
+1134,flip flops
+1135,flip flops
+1136,kangaroo
+1137,flip flops
+1138,kangaroo
+1139,boomerang
+1140,cactus
+1141,boomerang
+1142,banana
+1143,cactus
+1144,boomerang
+1145,banana
+1146,banana
+1147,kangaroo
+1148,banana
+1149,flip flops
+1150,flip flops
+1151,kangaroo
+1152,flip flops
+1153,flip flops
+1154,banana
+1155,crab
+1156,crab
+1157,boomerang
+1158,cactus
+1159,crab
+1160,banana
+1161,cactus
+1162,kangaroo
+1163,boomerang
+1164,cactus
+1165,kangaroo
+1166,flip flops
+1167,boomerang
+1168,flip flops
+1169,banana
+1170,cactus
+1171,flip flops
+1172,flip flops
+1173,crab
+1174,kangaroo
+1175,flip flops
+1176,crab
+1177,boomerang
+1178,flip flops
+1179,banana
+1180,crab
+1181,banana
+1182,kangaroo
+1183,crab
+1184,kangaroo
+1185,crab
+1186,cactus
+1187,boomerang
+1188,cactus
+1189,kangaroo
+1190,boomerang
+1191,banana
+1192,kangaroo
+1193,cactus
+1194,kangaroo
+1195,boomerang
+1196,cactus
+1197,banana
+1198,boomerang
+1199,kangaroo
+1200,banana
