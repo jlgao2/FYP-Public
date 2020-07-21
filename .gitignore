@@ -6,3 +6,5 @@ data/
 *.h5
 *.pkl
 *.jpg
+*.tgz
+*.csv
