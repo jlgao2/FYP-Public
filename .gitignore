@@ -8,3 +8,6 @@ data/
 *.jpg
 *.tgz
 *.csv
+*.tif
+*.png
+
