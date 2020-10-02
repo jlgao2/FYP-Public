@@ -6,7 +6,6 @@ data/
 *.pkl
 *.jpg
 *.tgz
-*.csv
 *.tif
 *.png
 
