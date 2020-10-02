@@ -2,7 +2,6 @@
 **/data
 data/
 **/checkpoint
-*.csv
 *.h5
 *.pkl
 *.jpg
